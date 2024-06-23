@@ -15,11 +15,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^20.14.8",
     "rollup": "^4.14.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.2",
     "vite": "^5.0.3"
   },
   "dependencies": {
-    "pixi.js": "^7.4.2",
-    "benchmark": "^2.1.4"
+    "benchmark": "^2.1.4",
+    "pixi.js": "^7.4.2"
   }
 }
