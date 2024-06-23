@@ -1,0 +1,25 @@
+{
+  "name": "makise",
+  "version": "1.0.0",
+  "description": "gameengine node-based workflow  data-based programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite dev"
+  },
+  "keywords": [
+    "gameengine",
+    "makisekurisu",
+    "visual-programming"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^4.14.3",
+    "vite": "^5.0.3"
+  },
+  "dependencies": {
+    "pixi.js": "^7.4.2",
+    "benchmark": "^2.1.4"
+  }
+}
